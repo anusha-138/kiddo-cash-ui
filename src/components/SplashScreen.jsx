@@ -1,6 +1,6 @@
 import React from 'react';
-import styles from './styles/SplashScreen.module.css';
-import icon from './assets/icon.png'
+import styles from '../styles/SplashScreen.module.css'; // Adjust the path as needed
+import icon from '../assets/icon.png'; // Adjust the path as needed
 
 function SplashScreen() {
   return (
